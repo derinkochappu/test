@@ -1,0 +1,25 @@
+body{
+    margin= 0:
+}
+.main{
+    width:100%;
+    background-color: black;
+    height:100vh;
+    color: white;
+}
+h1{
+    margin=0;
+    text-align: center;
+}
+.partone,.parttwo,.partthree{
+    float:left;
+    width:33%;
+    border:1px solid blue;
+    background-color: chartreuse;
+    height: 500px;
+}
+.parttwo{
+    position: relative;
+    left:10%;
+   background-color:crimson;
+}

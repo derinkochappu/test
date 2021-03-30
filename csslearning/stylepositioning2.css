@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+h1{
+  color:black;
+  text-align: center; 
+  margin=0;
+}
+.container{
+    width:100%;
+    height:300vh;
+}
+.p1,.p2,.p3,.p4,.p5{
+    width:10%;
+    height: 300px;   
+}
+.p1{
+    background-color:darkslateblue;
+    position: absolute;
+    left:15%;
+    top:20%;
+}
+  .p2{
+background-color:darkcyan;
+position:absolute;
+left:27%;
+top:20%;
+  }
+  .p3{
+      background-color:darkolivegreen ;
+      position: absolute;
+      left:39%;
+      top:20%;
+  }
+  .p4{
+      background-color: sandybrown;
+      position: absolute;
+      left:51%;
+      top:20%;
+  }
+.p5{
+    background-color: red;
+    position: absolute;
+    left:63%;
+    top:20%;
+}
+
+  }
+  
+    
+
